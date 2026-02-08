@@ -16,8 +16,11 @@ The main objectives of developing this system are to:
 **Tools & Technologies Used**
 
 ₊⊹Frontend: HTML, CSS, JavaScript
+
 ₊⊹Backend: PHP
+
 ₊⊹Database: PHPMyAdmin
+
 ₊⊹Data Visualization: Chart.js
 
 **Types of Users Involved**
