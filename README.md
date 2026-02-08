@@ -1,9 +1,11 @@
 # Home-Build-Track-ProGress
 
 **Project Overview**
+
 The Smart Monitoring System for House Construction Projects is a digital solution designed to tackle challenges in residential construction management. By integrating real-time progress tracking, automated reporting, financial oversight, and centralized resource coordination, the system addresses inefficiencies in manual processes and fragmented communication.
 
 **Objectives**
+
 The main objectives of developing this system are to:
 
 - Identify and analyse key requirements for a smart dashboard specifically designed for house construction project monitoring.
